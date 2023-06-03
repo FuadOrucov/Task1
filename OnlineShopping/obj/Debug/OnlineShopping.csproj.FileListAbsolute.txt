@@ -1,0 +1,8 @@
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe.config
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.pdb
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.exe
+C:\Users\Windows\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
