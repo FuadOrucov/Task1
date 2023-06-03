@@ -1,0 +1,8 @@
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\bin\Debug\LibraryApi(Console).exe.config
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\bin\Debug\LibraryApi(Console).exe
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\bin\Debug\LibraryApi(Console).pdb
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\obj\Debug\LibraryApi(Console).csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\obj\Debug\LibraryApi(Console).csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\obj\Debug\LibraryApi(Console).csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\obj\Debug\LibraryApi(Console).exe
+C:\Users\Windows\source\repos\LibraryApi(Console)\LibraryApi(Console)\obj\Debug\LibraryApi(Console).pdb
