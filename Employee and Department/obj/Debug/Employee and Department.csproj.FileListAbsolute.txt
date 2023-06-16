@@ -1,0 +1,8 @@
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\bin\Debug\Employee and Department.exe.config
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\bin\Debug\Employee and Department.exe
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\bin\Debug\Employee and Department.pdb
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\obj\Debug\Employee and Department.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\obj\Debug\Employee and Department.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\obj\Debug\Employee and Department.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\obj\Debug\Employee and Department.exe
+C:\Users\Windows\source\repos\Employee and Department\Employee and Department\obj\Debug\Employee and Department.pdb
